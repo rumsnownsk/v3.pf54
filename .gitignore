@@ -1,0 +1,6 @@
+.idea
+.git
+
+config/common.php
+temp/
+vendor/
